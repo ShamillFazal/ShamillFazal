@@ -1,8 +1,8 @@
 ### Hi there, I'm Shamill 👋
 
-I'm an aspiring software engineer who has just landed a place on the [School of Code bootcamp](https://www.schoolofcode.co.uk/)! (March 2023)
+I'm an aspiring software developer who has just landed a place on the [School of Code bootcamp](https://www.schoolofcode.co.uk/)! (March 2023)
 
-I've been working as an electrician before this but always had a passion for tech and especially web3 in recent years. Outside of working hours you are 100% guaranteed to catch me in the gym for at least 2-3hours a day :grinning: I have a huge passion for health and fitness and the great outdoors.
+I've been working as an electrician before this but I've always had a passion for tech and especially web3 in recent years. Outside of working hours you are 100% guaranteed to catch me in the gym for at least 2-3hours a day :grinning: I have a huge passion for health and fitness and the great outdoors.
 
 <!--
 **ShamillFazal/ShamillFazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
