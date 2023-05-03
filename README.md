@@ -7,6 +7,9 @@ I've been working as an electrician before this but I've always had a passion fo
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamill-fazal-516a37274/)
 
+Skills
+JavaScript TypeScript React HTML5 CSS3 NodeJS Figma
+
 
 <!--
 **ShamillFazal/ShamillFazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
