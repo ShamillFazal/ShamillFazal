@@ -1,4 +1,3 @@
-### Hi there, I'm Shamill 👋
 ![github-header-image](https://user-images.githubusercontent.com/94766229/236617828-8fb3b716-274b-4566-ab41-971a4fe94417.png)
 
 
