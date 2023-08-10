@@ -16,7 +16,7 @@ I'm an aspiring software developer who has just landed a place on the [School of
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamill-fazal-516a37274/)
-[![Codewars](https://www.codewars.com/users/ShamillFazal/badges/medium)](https://www.codewars.com/users/ShamillFazal)
+[![Codewars](https://www.codewars.com/users/ShamillFazal/badges/large)](https://www.codewars.com/users/ShamillFazal)
 
 ### Skills
 <p align="left">
