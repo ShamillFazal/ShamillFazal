@@ -2,7 +2,7 @@
 
 
 
-I'm an aspiring software developer who has just landed a place on the [School of Code bootcamp](https://www.schoolofcode.co.uk/)! (March 2023)
+I'm an aspiring software developer and [School of Code bootcamp](https://www.schoolofcode.co.uk/) graduate! 
 
 
 - ⚡ Former Electrician
