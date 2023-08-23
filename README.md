@@ -18,7 +18,7 @@ I'm an aspiring software developer and [School of Code bootcamp](https://www.sch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamill-fazal-516a37274/)
 [![Codewars](https://www.codewars.com/users/ShamillFazal/badges/large)](https://www.codewars.com/users/ShamillFazal)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShamillFazal)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShamillFazal&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Skills
 <p align="left">
