@@ -7,7 +7,7 @@ I'm an aspiring software developer and [School of Code bootcamp](https://www.sch
 
 - ⚡ Former Electrician
 
-- 🔭 Full Stack Developer in training!
+- 🔭 Junior Full Stack Developer!
 
 - 🌱 Huge passion for the health/fitness & the great outdoors
 
