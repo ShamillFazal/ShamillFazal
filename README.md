@@ -2,7 +2,7 @@
 
 
 
-I'm an aspiring software developer and [School of Code bootcamp](https://www.schoolofcode.co.uk/) graduate! 
+I'm a junior software developer and [School of Code bootcamp](https://www.schoolofcode.co.uk/) graduate! 
 
 
 - ⚡ Former Electrician
