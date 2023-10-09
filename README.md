@@ -1,14 +1,11 @@
 ![github-header-image](https://user-images.githubusercontent.com/94766229/236617828-8fb3b716-274b-4566-ab41-971a4fe94417.png)
 
+<br>
+<p>Hey there! I'm a former electrician who decided to trade in my trusty tools for a whole new set. Thanks to the School of Code, I've embarked on an exciting journey to become a software developer.</p>
 
+<p>The road hasn't always been easy, but my determination to learn and grow in this field is unshakeable. I firmly believe that intellectual growth should be a lifelong pursuit, and I'm living by that philosophy every day. </p>
 
-I'm a junior software developer and [School of Code bootcamp](https://www.schoolofcode.co.uk/) graduate! 
-
-Hey there! I'm a former electrician who decided to trade in my trusty tools for a whole new set. Thanks to the School of Code, I've embarked on an exciting journey to become a software developer.
-
-The road hasn't always been easy, but my determination to learn and grow in this field is unshakeable. I firmly believe that intellectual growth should be a lifelong pursuit, and I'm living by that philosophy every day. 
-
-So, here's to a lifetime of learning and coding! 🛠️🖥️🚀
+<p> So, here's to a lifetime of learning and coding! 🛠️🖥️🚀 </p>
 
 <br>
 <p align='center'> "Intellectual growth should commence at birth and cease only at death." </p>
