@@ -13,18 +13,18 @@ I'm a junior software developer and [School of Code bootcamp](https://www.school
 
 - 💬 Ask me about web3 (I dare you) 😄
 
-### 📊 Stats ###
+<h2> 📊 Stats </h2> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShamillFazal&theme=tokyonight)](https://git.io/streak-stats)
 
 
-### 🤝 Connect with me
+<h2> 🤝 Connect with me </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamill-fazal-516a37274/)
 [![Codewars](https://www.codewars.com/users/ShamillFazal/badges/large)](https://www.codewars.com/users/ShamillFazal)
 
 
-### Skills
+<h2> Skills </h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
