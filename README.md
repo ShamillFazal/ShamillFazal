@@ -6,7 +6,9 @@ I'm a junior software developer and [School of Code bootcamp](https://www.school
 
 Hey there! I'm a former electrician who decided to trade in my trusty tools for a whole new set. Thanks to the School of Code, I've embarked on an exciting journey to become a software developer.
 
-The road hasn't always been easy, but my determination to learn and grow in this field is unshakeable. I firmly believe that intellectual growth should be a lifelong pursuit, and I'm living by that philosophy every day. So, here's to a lifetime of learning and coding! 🛠️🖥️🚀
+The road hasn't always been easy, but my determination to learn and grow in this field is unshakeable. I firmly believe that intellectual growth should be a lifelong pursuit, and I'm living by that philosophy every day. 
+
+So, here's to a lifetime of learning and coding! 🛠️🖥️🚀
 
 <br>
 <p align='center'> "Intellectual growth should commence at birth and cease only at death." </p>
