@@ -23,12 +23,6 @@
 
 - 💬 Ask me about web3 (I dare you) 😄
 <br>
-
-<h2> 🤝 Connect with me </h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamill-fazal-516a37274/)
-[![Codewars](https://www.codewars.com/users/ShamillFazal/badges/large)](https://www.codewars.com/users/ShamillFazal)
-
 <h2> Skills </h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -43,6 +37,12 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 </p>
+
+<h2> 🤝 Connect with me </h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamill-fazal-516a37274/)
+[![Codewars](https://www.codewars.com/users/ShamillFazal/badges/large)](https://www.codewars.com/users/ShamillFazal)
+
 
  
 <h2> 📊 Stats </h2> 
