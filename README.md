@@ -22,6 +22,8 @@
 - 🌱 Huge passion for the health/fitness & the great outdoors
 
 - 💬 Ask me about web3 (I dare you) 😄
+
+- 👷 I'm currently working on this [Crypto Portfolio Tracker](https://github.com/ShamillFazal/PortfolioTracker)
 <br>
 <h2> Skills </h2>
 <p align="left">
