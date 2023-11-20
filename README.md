@@ -24,6 +24,8 @@
 - 💬 Ask me about web3 (I dare you) 😄
 
 - 👷 I'm currently working on this [Crypto Portfolio Tracker](https://github.com/ShamillFazal/PortfolioTracker)
+
+
 <br>
 <h2> Skills </h2>
 <p align="left">
@@ -50,6 +52,11 @@
 <h2> 📊 Stats </h2> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShamillFazal&theme=tokyonight)](https://git.io/streak-stats)
+
+
+<div align='center'>
+  <img src='https://komarev.com/ghpvc/?username=shamillfazal&color=green&style=for-the-badge' alt='Profile Views'>
+</div>
 
 
 
